@@ -2,6 +2,8 @@
 
 **.DS_Store
 
+.env
+
 package-lock.json
 package.json
 tsconfig.json
